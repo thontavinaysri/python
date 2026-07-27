@@ -12,3 +12,15 @@ print("\nAfter assigning the same value:")
 print("a =", a)
 print("b =", b)
 print("c =", c)
+
+'''
+output 
+After assigning different values:
+a = 10
+b = 20
+c = 30
+
+After assigning the same value:
+a = 100
+b = 100
+c = 100'''
